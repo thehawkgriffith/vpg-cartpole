@@ -2,7 +2,8 @@
 The Vanilla Policy Gradeint Algorithm implemented for the OpenAI Gym's CartPole environment.
 
 **My Hyperparameters:**
-`Number of trajectories = 32
+`
+Number of trajectories = 32
 
 Learning rate for policy parameters: 0.1
 
